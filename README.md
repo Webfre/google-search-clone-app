@@ -13,7 +13,7 @@ Google Search Clone - This is a copy of the world's largest Internet search engi
 
 ## Preview
 
-<a href="https://webfre.github.io/clone-youtube/" target="_blank">Follow the link 👁</a>
+<a href="https://webfre.github.io/google-search-clone-app/" target="_blank">Follow the link 👁</a>
 
 ## Tech
 
