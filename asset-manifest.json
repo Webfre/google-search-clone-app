@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/google-search-clone-app/static/css/main.c1700cfa.css",
-    "main.js": "/google-search-clone-app/static/js/main.c2109b1b.js",
+    "main.js": "/google-search-clone-app/static/js/main.98a11142.js",
     "static/media/google-pagination-logo.png": "/google-search-clone-app/static/media/google-pagination-logo.40de48e89e0cd59958be.png",
     "static/media/image.svg": "/google-search-clone-app/static/media/image.b884bfdbd305c4426a61d91a0f15f4a4.svg",
     "static/media/profile-ring.svg": "/google-search-clone-app/static/media/profile-ring.9136662be60ed42056f3b2f2efb5ec59.svg",
     "static/media/mic.svg": "/google-search-clone-app/static/media/mic.97097c9ee2cbf473e4e2f76431fa121b.svg",
     "index.html": "/google-search-clone-app/index.html",
     "main.c1700cfa.css.map": "/google-search-clone-app/static/css/main.c1700cfa.css.map",
-    "main.c2109b1b.js.map": "/google-search-clone-app/static/js/main.c2109b1b.js.map"
+    "main.98a11142.js.map": "/google-search-clone-app/static/js/main.98a11142.js.map"
   },
   "entrypoints": [
     "static/css/main.c1700cfa.css",
-    "static/js/main.c2109b1b.js"
+    "static/js/main.98a11142.js"
   ]
 }
