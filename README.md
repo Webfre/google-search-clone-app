@@ -41,5 +41,6 @@ git clone https://github.com/Webfre/google-search-clone-app.git
 Start the project:
 
 ```sh
+npm install
 npm start or yarn start
 ```
